@@ -1,9 +1,19 @@
 p {
 color : blue;
 }
+nav ul {
+	list-style-type : none;
+	margin = 0;
+	padding = 0;
+	width = 150px;
+	position : fixed;
+}
 body {
 	font-size : 14px;
 	color : purple;
+	font-family:  'Gloria Hallelujah', cursive;
+	background-image: url("wallpaper.jpg");
+	background-repeat: repeat-x;
 }
 .centerMe{
 	display :block;
@@ -14,4 +24,10 @@ body {
 	margin-left : 150px;
 	padding-left : 25px;
 	margin-right:75px;
+}
+h1{
+	font-family:  'Gloria Hallelujah', cursive;
+	text-align :center;
+	border-style : dashed;
+	border-width : 4px
 }
