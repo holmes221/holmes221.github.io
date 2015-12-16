@@ -33,8 +33,7 @@ body {
 	margin-right:75px;
 }
 h1{
-	background-image:url('../wallpaper2.png');
-	background-repeat: no-repeat;
+	font-size: 250%;
 	font-family:  'Gloria Hallelujah', cursive;
 	text-align :center;
 	border-style : double;
