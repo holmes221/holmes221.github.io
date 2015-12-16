@@ -33,6 +33,7 @@ body {
 	margin-right:75px;
 }
 h1{
+	background-image:url('../header.jpe');
 	font-family:  'Gloria Hallelujah', cursive;
 	text-align :center;
 	border-style : double;
