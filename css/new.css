@@ -6,7 +6,7 @@ nav ul {
 	margin = 0;
 	padding = 0;
 	width = 150px;
-	background-color = #478194;
+	background-color: #478194;
 	position : fixed;
 
 nav ul li a {
