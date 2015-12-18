@@ -9,7 +9,7 @@ nav ul {
 	width = 150px;
 	background-color: #478194;
 	position : fixed;
-
+}
 
 nav ul li a {
 	text-decoration : none;
@@ -20,7 +20,7 @@ nav ul li a {
 	padding-left : 16px
 	text-align: center;
 }
-}
+
 body {
 	font-size : 14px;
 	color :#311945 ;
