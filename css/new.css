@@ -20,11 +20,11 @@ nav ul li a {
 	padding-right : 2px;
 	text-align : center;
 	transition : color 1s;
-	transition : background-color 1s
+	transition : background-color 1s;
 }
 nav ul li a : hover {
 	background-color : #555;
-	color: white;
+	color: #fff;
 }
 
 body {
