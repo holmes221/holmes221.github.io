@@ -1,5 +1,5 @@
 p {
-color : #164730;
+	color : #164730;
 }
 nav ul {
 	list-style-type : none;
@@ -12,14 +12,13 @@ nav ul {
 }
 
 nav ul li a {
-	text-decoration : none;
 	display: block;
-	color : #000;
+	text-decoration : none;
 	padding-top : 10px;
 	padding-bottom : 10px;
 	padding-left : 5px
-	padding-right: 5px;
-	text-align: center;
+	padding-right : 5px;
+	text-align : center;
 }
 
 body {
