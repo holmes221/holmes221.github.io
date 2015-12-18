@@ -1,55 +1,55 @@
 p {
-	color : #164730;
+	color: #164730;
 }
 nav ul {
-	list-style-type : none;
-	font-size : 20px;
-	margin : 0;
-	padding : 5px;
-	width : 150px;
+	list-style-type: none;
+	font-size: 20px;
+	margin: 0;
+	padding: 5px;
+	width: 150px;
 	background-color: #478194;
-	position : fixed;
+	position: fixed;
 }
 nav ul li a {
 	display: block;
 	text-decoration : none;
-	color:#000;
-	padding-top : 10px;
+	color: #000;
+	padding-top: 10px;
 	padding-bottom : 10px;
-	padding-left : 2px;
-	padding-right : 2px;
-	text-align : center;
+	padding-left: 2px;
+	padding-right: 2px;
+	text-align: center;
 }
-nav ul li a : hover{
-	background-color : #555;
+nav ul li a:hover {
+	background-color: #555;
 	color: white;
 }
 
 body {
 	background-image: url("../wallpaper.jpg");
 	background-color: #cccccc;
-	font-size : 14px;
-	color :#311945 ;
-	font-family:  'Gloria Hallelujah', cursive;
+	font-size: 14px;
+	color: #311945;
+	font-family: 'Gloria Hallelujah', cursive;
 }
 .centerMe{
-	display :block;
-	margin-left : auto;
+	display: block;
+	margin-left: auto;
 	margin-right:auto;
 }
 #mainContent {
-	margin-left : 150px;
-	padding-left : 25px;
-	margin-right:75px;
+	margin-left: 150px;
+	padding-left: 25px;
+	margin-right: 75px;
 }
 h1{
 	font-size: 300%;
-	font-family:  'Gloria Hallelujah', cursive;
-	text-align :center;
-	border-style : double;
-	border-width : 4px;
-	margin-left : 20%;
-	margin-right : 20%;
-	padding-top:5%;
-	padding-bottom :5%;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	border-style: double;
+	border-width: 4px;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
