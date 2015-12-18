@@ -4,9 +4,9 @@ p {
 nav ul {
 	list-style-type : none;
 	font-size : 20px;
-	margin = 0;
-	padding = 5px;
-	width = 150px;
+	margin : 0;
+	padding : 5px;
+	width : 150px;
 	background-color: #478194;
 	position : fixed;
 }
