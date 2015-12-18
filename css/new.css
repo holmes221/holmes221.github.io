@@ -15,9 +15,10 @@ nav ul li a {
 	text-decoration : none;
 	display: block;
 	color : #000;
-	padding-top : 100px;
-	padding-bottom : 8px;
-	padding-left : 16px
+	padding-top : 10px;
+	padding-bottom : 10px;
+	padding-left : 5px
+	padding-right: 5px;
 	text-align: center;
 }
 
