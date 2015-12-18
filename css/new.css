@@ -26,7 +26,10 @@ nav ul li a:hover {
 	background-color: #555;
 	color: white;
 }
-
+.active {
+	background-color: #540C0C;
+	color: #fff;
+}
 body {
 	background-image: url("../wallpaper.jpg");
 	background-color: #cccccc;
