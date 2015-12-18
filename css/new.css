@@ -9,10 +9,11 @@ nav ul {
 	width = 150px;
 	background-color: #478194;
 	position : fixed;
+	text-decoration : none;
 
 nav ul li a {
 	display: block;
-	text-decoration : none;
+
 	color : #000;
 	padding-top : 8px;
 	padding-bottom : 5px;
