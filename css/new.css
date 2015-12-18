@@ -12,7 +12,7 @@ nav ul {
 }
 nav ul li a {
 	display: block;
-	text-decoration : none;
+	text-decoration: none;
 	color: #000;
 	padding-top: 10px;
 	padding-bottom : 10px;
@@ -27,8 +27,8 @@ nav ul li a:hover {
 	color: white;
 }
 .active {
-	background-color: #4CAF50;
-	color: white;
+    background-color: #4CAF50;
+    color: white;
 }
 body {
 	background-image: url("../wallpaper.jpg");
