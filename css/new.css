@@ -37,17 +37,17 @@ body {
 	color: #311945;
 	font-family: 'Gloria Hallelujah', cursive;
 }
-.centerMe{
+.centerMe {
 	display: block;
 	margin-left: auto;
-	margin-right:auto;
+	margin-right: auto;
 }
 #mainContent {
 	margin-left: 150px;
 	padding-left: 25px;
 	margin-right: 75px;
 }
-h1{
+h1 {
 	font-size: 300%;
 	font-family: 'Gloria Hallelujah', cursive;
 	text-align: center;
