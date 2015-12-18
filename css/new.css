@@ -14,13 +14,15 @@ nav ul {
 nav ul li a {
 	display: block;
 	text-decoration : none;
+	color:#000;
 	padding-top : 10px;
 	padding-bottom : 10px;
 	padding-left : 2px;
 	padding-right : 2px;
 	text-align : center;
 	transition : color 1s;
-	transition : background-color 1s;
+    transition : background-color 1s;
+
 }
 nav ul li a : hover {
 	background-color : #555;
